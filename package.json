@@ -1,0 +1,21 @@
+{
+  "name": "boletim360---sistema-de-notas-de-estudantes",
+  "version": "1.0.0",
+  "description": "Projeto Full-Stack com Flask e React",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafgam10/Boletim360---Sistema-de-Notas-de-Estudantes.git"
+  },
+  "keywords": [],
+  "author": "Rafael Timóteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafgam10/Boletim360---Sistema-de-Notas-de-Estudantes/issues"
+  },
+  "homepage": "https://github.com/rafgam10/Boletim360---Sistema-de-Notas-de-Estudantes#readme"
+}
